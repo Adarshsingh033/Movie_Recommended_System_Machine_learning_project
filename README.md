@@ -30,7 +30,7 @@ The recommendation system employs collaborative filtering algorithms, including 
 
 ## Dataset
 
-The system uses the MovieLens dataset, which contains movie ratings and metadata. The dataset is preprocessed and used to train the recommendation algorithms.
+The system uses the TMDB dataset, which contains movie Details and Crew & cast. The dataset is preprocessed and used to train the recommendation algorithms.
 
 ## Contributions
 
